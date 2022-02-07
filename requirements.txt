@@ -1,0 +1,7 @@
+ask_sdk_core==1.16.1
+ask_sdk_model==1.32.0
+Flask==2.0.2
+flask_ask_sdk==1.0.0
+pymongo==3.12.1
+cryptography==3.3.2
+pyssml~=0.1.3
